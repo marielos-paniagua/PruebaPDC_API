@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PruebaPDC_API</string>
+    <string name="title_home">País</string>
+    <string name="title_dashboard">Departamento</string>
+    <string name="title_notifications">Persona</string>
+
+    <string name="menu_home">País</string>
+    <string name="menu_gallery">Departamento</string>
+    <string name="menu_slideshow">Persona</string>
+    <string name="tile_pais">País</string>
+    <string name="tile_departamento">Departamento</string>
+    <string name="tile_persona">Persona</string>
+
+    <string name="buscar_pais">Buscar país</string>
+    <string name="buscar_departamento">Buscar departamento</string>
+    <string name="buscar_persona">Buscar persona</string>
+    <string name="llave_pais">País</string>
+    <string name="nombre_pais">Nombre</string>
+    <string name="llave_departamento">Departamento</string>
+    <string name="nombre_departamento">Nombre</string>
+    <string name="llave_persona">Persona</string>
+    <string name="direccion_persona">Dirección</string>
+    <string name="nombre_persona">Nombre</string>
+
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
